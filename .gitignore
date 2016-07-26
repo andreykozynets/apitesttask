@@ -1,0 +1,15 @@
+target
+**/target/*
+*.iml
+.idea/
+
+*.ipr
+*.iws
+maven-cli-idea-plugin.jar
+
+# log files should not be included
+*.log
+
+# osx related
+.DS_Store
+~*
